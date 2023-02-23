@@ -51,7 +51,7 @@ struct AnimateCross: View {
     var body: some View {
         VStack{
             Cross(animating: animating)
-                .fill(animating ? .green : .red)
+                .fill(animating ? .blue : .red)
                 .layoutGuide(crossLayoutConfig)
                 .frame(200)
                 .contentShape(Rectangle())
