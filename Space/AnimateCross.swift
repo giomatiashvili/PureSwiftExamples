@@ -23,7 +23,7 @@ struct Cross:Shape{
         
         for corner in 0..<4{
             
-            var lg = g
+            let lg = g
                 .rotated(90.degrees * corner)
                 .xOffset(from: -rect.halfWidth, to: rect.halfWidth, factor: animatableData)
                 .yScaled(from: 1/Double.pi, to: 1, factor: animatableData)
