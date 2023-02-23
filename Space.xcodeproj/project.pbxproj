@@ -20,7 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		4E131F6229A28EB300826F33 /* Space.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Space.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4E131F6229A28EB300826F33 /* GiosPureUITestApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GiosPureUITestApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E131F6529A28EB300826F33 /* SpaceApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpaceApp.swift; sourceTree = "<group>"; };
 		4E131F6729A28EB300826F33 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4E131F6929A28EB500826F33 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -55,7 +55,7 @@
 		4E131F6329A28EB300826F33 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4E131F6229A28EB300826F33 /* Space.app */,
+				4E131F6229A28EB300826F33 /* GiosPureUITestApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -104,7 +104,7 @@
 				4E131F7429A3B71F00826F33 /* PureSwiftUI */,
 			);
 			productName = Space;
-			productReference = 4E131F6229A28EB300826F33 /* Space.app */;
+			productReference = 4E131F6229A28EB300826F33 /* GiosPureUITestApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -310,7 +310,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = gio.creative.ge.cloudtest;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = GiosPureUITestApp;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -340,7 +340,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = gio.creative.ge.cloudtest;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = GiosPureUITestApp;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
