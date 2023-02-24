@@ -22,7 +22,7 @@ struct Cross:Shape{
             .rotated(360.degrees,factor: animatableData)
         
         for corner in 0..<4{
-            
+            //test tag
             let lg = g
                 .rotated(90.degrees * corner)
                 .xOffset(from: -rect.halfWidth, to: rect.halfWidth, factor: animatableData)
