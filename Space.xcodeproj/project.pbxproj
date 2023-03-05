@@ -17,6 +17,7 @@
 		4E131F7B29A3D68500826F33 /* AnimatingShapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E131F7A29A3D68500826F33 /* AnimatingShapes.swift */; };
 		4E40448129A6A90100B1E7BF /* AnimatingGreed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E40448029A6A90100B1E7BF /* AnimatingGreed.swift */; };
 		4E40448329A6BB9000B1E7BF /* AnimateCross.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E40448229A6BB9000B1E7BF /* AnimateCross.swift */; };
+		4EFE26B029B3C95500794FCE /* ConnectedWheels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EFE26AF29B3C95500794FCE /* ConnectedWheels.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		4E131F7A29A3D68500826F33 /* AnimatingShapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatingShapes.swift; sourceTree = "<group>"; };
 		4E40448029A6A90100B1E7BF /* AnimatingGreed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatingGreed.swift; sourceTree = "<group>"; };
 		4E40448229A6BB9000B1E7BF /* AnimateCross.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimateCross.swift; sourceTree = "<group>"; };
+		4EFE26AF29B3C95500794FCE /* ConnectedWheels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConnectedWheels.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				4E131F7A29A3D68500826F33 /* AnimatingShapes.swift */,
 				4E40448029A6A90100B1E7BF /* AnimatingGreed.swift */,
 				4E40448229A6BB9000B1E7BF /* AnimateCross.swift */,
+				4EFE26AF29B3C95500794FCE /* ConnectedWheels.swift */,
 				4E131F6929A28EB500826F33 /* Assets.xcassets */,
 				4E131F6B29A28EB500826F33 /* Preview Content */,
 			);
@@ -163,6 +166,7 @@
 				4E131F6829A28EB300826F33 /* ContentView.swift in Sources */,
 				4E40448329A6BB9000B1E7BF /* AnimateCross.swift in Sources */,
 				4E131F6629A28EB300826F33 /* SpaceApp.swift in Sources */,
+				4EFE26B029B3C95500794FCE /* ConnectedWheels.swift in Sources */,
 				4E40448129A6A90100B1E7BF /* AnimatingGreed.swift in Sources */,
 				4E131F7729A3B76700826F33 /* Shapes1.swift in Sources */,
 				4E131F7929A3CE7A00826F33 /* BeziarTraceHart.swift in Sources */,
